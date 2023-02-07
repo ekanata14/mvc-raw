@@ -2,7 +2,7 @@
 
 // This Database Concept is using PHP PDO, if you want to know more, just visit w3school website PDO PHP. The website has many resources for your knowledge hungry
 
-class Database{ // Class Databse for using PHP PDOj
+class Database{ // Class Databse for using PHP PDO
     // Variable for take the defined variable from env file
     private $host = DB_HOST; // Host Variable 
     private $user = DB_USER; // User Variable
