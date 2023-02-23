@@ -1,7 +1,7 @@
 <?php
 
 class App{
-    protected $controller = "home"; // Controller variable, setting up your default controller file for your website
+    protected $controller = "auth"; // Controller variable, setting up your default controller file for your website
     protected $method = "index"; // Method variable, setting up your default method from controller file for your website
     protected $params = []; // Params variable
 
