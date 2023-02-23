@@ -6,6 +6,9 @@ It's a little bit hard in the early learning MVC, but it will be the most useful
 
 I hope this tutorial helpful for you guys, coding is fun and challenging, face the challanges early, don't give up, because something useful is waiting for you in the end
 
+Update 24/02/2023
+Continue mvc with login, regis, and CRUD User
+
 Author: dreamerdream (Eka Nata)
 
 github: github.com/ekanata14
